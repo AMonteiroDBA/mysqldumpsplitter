@@ -32,7 +32,7 @@
 # Credit: @PeterTheDBA helped understanding the possible issues with environment variable settings included in first 17 lines of mysqldump.
 ##
 
-# ToDo: Work with straming input
+# ToDo: Work with streaming input
 ## Formating Colour
 # Text color variables
 txtund=$(tput sgr 0 1)    # Underline
